@@ -3,6 +3,8 @@
 #### Q2 阅读文档，transition time, propagation delay等参数的含义。
 这个问题和昨天的问题相似，transtion delay time, 分为rising time和falling time。rising time是指从10%的Vdd到90%的Vdd的时间，falling time是指从Vdd 90%到10%的时间。
 propagation delay，顾名思义是传播延迟，就是输入的电平变到50%Vdd起开始计时，到输出电平变到50%Vdd为止所需要的时间。这些参数都在时序约束当中起到重要的作用。
+![传播延时](https://github.com/kangjian888/verilog_everyday/blob/master/day3/propagation_delay.JPG)
+![转换时间](https://github.com/kangjian888/verilog_everyday/blob/master/day3/transition_time.JPG)
 #### Q3 阅读文档power dissipation/calculation的描述。
 仅消耗AC的功耗，转换速率是决定系统功耗的因素之一。关于平均功率计算公式，有输入管脚的功率，输出管脚的功耗。
 
