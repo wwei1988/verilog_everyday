@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Thu Apr 25 18:23:33 2019
+# Process ID: 2456
+# Current directory: C:/Users/KANG Jian/Desktop/Verilog_everyday/fpga_test/bcd_encoder_test/bcd_encoder_test.runs/synth_1
+# Command line: vivado.exe -log BCD_encoder.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source BCD_encoder.tcl
+# Log file: C:/Users/KANG Jian/Desktop/Verilog_everyday/fpga_test/bcd_encoder_test/bcd_encoder_test.runs/synth_1/BCD_encoder.vds
+# Journal file: C:/Users/KANG Jian/Desktop/Verilog_everyday/fpga_test/bcd_encoder_test/bcd_encoder_test.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source BCD_encoder.tcl -notrace
