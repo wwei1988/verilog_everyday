@@ -6,9 +6,9 @@
 #### Q2 设计一个2-4译码器
 首先确定输入和输出，2个输入，4个输出。
 然后我们需要写出真值表。
-
+![design processing](https://github.com/kangjian888/verilog_everyday/blob/master/day4/2.PNG)
 #### Q3 输入一个8bit的数，输出其中1的个数。如果只能使用1bit的全加器，最少需要多少个。
-
+![the num of 1bit](https://github.com/kangjian888/verilog_everyday/blob/master/day4/1.PNG)
 #### Q4 如果一个标准单元库只有3个cell：2输入mux，TIEH(输出常数1)和TIEL(输出常数0),如何实现以下的功能
 1 反相器
 2 缓冲器buffer
@@ -16,3 +16,4 @@
 4 两输入或门
 5 四输入mux
 6 一位全加器
+![schematic](https://github.com/kangjian888/verilog_everyday/blob/master/day4/3.PNG)
