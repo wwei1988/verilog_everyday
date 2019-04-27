@@ -4,14 +4,12 @@
 这个套装里面没有安装git工具，在上传代码的时候不是很方便，所以，昨天在网上找信息同时捣鼓了一下，于是git就安装成功了。当然了，安装这个有很多的方法，今天，给大家分享我的方法。大部分转载自 https:// https://blog.csdn.net/mao_tao/article/details/78398933 有部分内容不适合上述链接分享的虚拟机，作出部分修改。
 1. 安装zlib
 ```
-wget https://www.openssl.org/source/openssl-1.1.0f.tar.gz
-tar -xvzf openssl-1.1.0f.tar.gz
-cd openssl-*
-./config --prefix=/usr/local
+wget http://www.zlib.net/zlib-1.2.11.tar.gz
+tar -xvzf zlib-1.2.11.tar.gz
+cd zlib-*
+./configure --prefix=/usr/local
 make
-make install#如果非root用户需要使用sudo make install 在root用户下执行
-ln -s /usr/local/lib64/libssl.so.1.1 /usr/lib64/libssl.so.1.1
-ln -s /usr/local/lib64/libcrypto.so.1.1 /usr/lib64/libcrypto.so.1.1
+make install #如果非root用户需要使用sudo make install
 ```
 2. 安装openssl
 ```
