@@ -1,0 +1,115 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/TDM-GCC-32/Modeltech_pe_edu_10.4a/examples
+vbinary_asyn_counter
+Z0 !s110 1557155010
+!i10b 1
+!s100 0WOzI<dBJIJ3zhT2RNZTh3
+IAfAEK8Gj]A;cg]06ZgoCn3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/OneDrive - HKUST Connect/verilog_everyday/day8/modelsim_sim
+w1557154640
+8D:/OneDrive - HKUST Connect/verilog_everyday/day8/rtl_code/binary_asyn_counter.v
+FD:/OneDrive - HKUST Connect/verilog_everyday/day8/rtl_code/binary_asyn_counter.v
+L0 9
+Z3 OP;L;10.6c;65
+r1
+!s85 0
+31
+Z4 !s108 1557155010.000000
+!s107 D:/OneDrive - HKUST Connect/verilog_everyday/day8/rtl_code/binary_asyn_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OneDrive - HKUST Connect/verilog_everyday/day8/rtl_code/binary_asyn_counter.v|
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z6 tCvgOpt 0
+vbinary_syn_counter
+R0
+!i10b 1
+!s100 `Sb9<PWDUSnh:]7cBcM<W3
+I8f^kdDz9P?h32A9KGAf1N3
+R1
+R2
+w1557151387
+8D:/OneDrive - HKUST Connect/verilog_everyday/day8/rtl_code/binary_syn_counter.v
+FD:/OneDrive - HKUST Connect/verilog_everyday/day8/rtl_code/binary_syn_counter.v
+L0 9
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/OneDrive - HKUST Connect/verilog_everyday/day8/rtl_code/binary_syn_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OneDrive - HKUST Connect/verilog_everyday/day8/rtl_code/binary_syn_counter.v|
+!i113 1
+R5
+R6
+vcircle_counter
+R0
+!i10b 1
+!s100 NYQhYeXoQ@Qa9J?lboKd01
+ILjFR]9XhJ?T<V[R3PcFVQ0
+R1
+R2
+w1557154959
+8D:/OneDrive - HKUST Connect/verilog_everyday/day8/rtl_code/circle_counter.v
+FD:/OneDrive - HKUST Connect/verilog_everyday/day8/rtl_code/circle_counter.v
+L0 9
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/OneDrive - HKUST Connect/verilog_everyday/day8/rtl_code/circle_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OneDrive - HKUST Connect/verilog_everyday/day8/rtl_code/circle_counter.v|
+!i113 1
+R5
+R6
+vcounter_tb
+R0
+!i10b 1
+!s100 U>oNA6DTgR9gOGeHRQCm90
+IG2eBUWGz2iIF03JDb9JNj3
+R1
+R2
+w1557151072
+8D:/OneDrive - HKUST Connect/verilog_everyday/day8/rtl_code/counter_tb.v
+FD:/OneDrive - HKUST Connect/verilog_everyday/day8/rtl_code/counter_tb.v
+L0 10
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/OneDrive - HKUST Connect/verilog_everyday/day8/rtl_code/counter_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OneDrive - HKUST Connect/verilog_everyday/day8/rtl_code/counter_tb.v|
+!i113 1
+R5
+R6
+vjohnson_counter
+R0
+!i10b 1
+!s100 R`j=fC]@iV<klF6Rf1b;E0
+ITaDc5>9zEo[K3`Pn@6@DB2
+R1
+R2
+w1557154869
+8D:/OneDrive - HKUST Connect/verilog_everyday/day8/rtl_code/johnson_counter.v
+FD:/OneDrive - HKUST Connect/verilog_everyday/day8/rtl_code/johnson_counter.v
+L0 9
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/OneDrive - HKUST Connect/verilog_everyday/day8/rtl_code/johnson_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OneDrive - HKUST Connect/verilog_everyday/day8/rtl_code/johnson_counter.v|
+!i113 1
+R5
+R6
