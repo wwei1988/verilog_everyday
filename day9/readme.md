@@ -5,3 +5,4 @@
 仿真工具：modelsim (VCS太麻烦，因为只涉及行为级的仿真，并没有时序和综合的要求，所以就用了modelsim)
 编译一次通过，并没有发现语法错误，只是开始正如前文所说，条件写成等于，永远无法输出有效脉冲，换成大于等于问题就解决了。
 仿真结果如下图所示：
+![simulation result](https://github.com/kangjian888/verilog_everyday/blob/master/day9/SIM_RESULT.JPG)
