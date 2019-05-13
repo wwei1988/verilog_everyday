@@ -1,0 +1,36 @@
+{D:/OneDrive - HKUST Connect/verilog_everyday/day8/rtl_code/circle_counter.v} {1 {vlog -work work -stats=none {D:/OneDrive - HKUST Connect/verilog_everyday/day8/rtl_code/circle_counter.v}
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module circle_counter
+
+Top level modules:
+	circle_counter
+
+} {} {}} {D:/OneDrive - HKUST Connect/verilog_everyday/day8/rtl_code/binary_syn_counter.v} {1 {vlog -work work -stats=none {D:/OneDrive - HKUST Connect/verilog_everyday/day8/rtl_code/binary_syn_counter.v}
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module binary_syn_counter
+
+Top level modules:
+	binary_syn_counter
+
+} {} {}} {D:/OneDrive - HKUST Connect/verilog_everyday/day8/rtl_code/counter_tb.v} {1 {vlog -work work -stats=none {D:/OneDrive - HKUST Connect/verilog_everyday/day8/rtl_code/counter_tb.v}
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module counter_tb
+
+Top level modules:
+	counter_tb
+
+} {} {}} {D:/OneDrive - HKUST Connect/verilog_everyday/day8/rtl_code/johnson_counter.v} {1 {vlog -work work -stats=none {D:/OneDrive - HKUST Connect/verilog_everyday/day8/rtl_code/johnson_counter.v}
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module johnson_counter
+
+Top level modules:
+	johnson_counter
+
+} {} {}} {D:/OneDrive - HKUST Connect/verilog_everyday/day8/rtl_code/binary_asyn_counter.v} {1 {vlog -work work -stats=none {D:/OneDrive - HKUST Connect/verilog_everyday/day8/rtl_code/binary_asyn_counter.v}
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module binary_asyn_counter
+
+Top level modules:
+	binary_asyn_counter
+
+} {} {}}

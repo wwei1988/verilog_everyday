@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/OneDrive - HKUST Connect/course/FIRST_GRADE/digital circuit/FIR_FILTER_DESIGN/fir_filter_project/modelsim/FIR_test
+vpwm_led
+Z0 !s110 1557374765
+!i10b 1
+!s100 >GE]RAZh]ML5_]g2zG@Ij0
+IAn^z7B0]WTe?L>:_5B8Ze1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/OneDrive - HKUST Connect/verilog_everyday/day10/modelsim_sim
+w1557374750
+8D:/OneDrive - HKUST Connect/verilog_everyday/day10/pwm_led.v
+FD:/OneDrive - HKUST Connect/verilog_everyday/day10/pwm_led.v
+L0 13
+Z3 OP;L;10.6c;65
+r1
+!s85 0
+31
+Z4 !s108 1557374765.000000
+!s107 D:/OneDrive - HKUST Connect/verilog_everyday/day10/pwm_led.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OneDrive - HKUST Connect/verilog_everyday/day10/pwm_led.v|
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z6 tCvgOpt 0
+vpwm_led_tb
+R0
+!i10b 1
+!s100 eYXdGP:]6Ei?4^bdN?P<C0
+I;DGRKiVzm<J@cB7P??ofz3
+R1
+R2
+w1557370566
+8D:/OneDrive - HKUST Connect/verilog_everyday/day10/pwm_led_tb.v
+FD:/OneDrive - HKUST Connect/verilog_everyday/day10/pwm_led_tb.v
+L0 10
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/OneDrive - HKUST Connect/verilog_everyday/day10/pwm_led_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OneDrive - HKUST Connect/verilog_everyday/day10/pwm_led_tb.v|
+!i113 1
+R5
+R6

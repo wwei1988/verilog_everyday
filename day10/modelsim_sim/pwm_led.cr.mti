@@ -1,0 +1,15 @@
+{D:/OneDrive - HKUST Connect/verilog_everyday/day10/pwm_led_tb.v} {1 {vlog -work work -stats=none {D:/OneDrive - HKUST Connect/verilog_everyday/day10/pwm_led_tb.v}
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module pwm_led_tb
+
+Top level modules:
+	pwm_led_tb
+
+} {} {}} {D:/OneDrive - HKUST Connect/verilog_everyday/day10/pwm_led.v} {1 {vlog -work work -stats=none {D:/OneDrive - HKUST Connect/verilog_everyday/day10/pwm_led.v}
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module pwm_led
+
+Top level modules:
+	pwm_led
+
+} {} {}}
