@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/modelsim/examples
+vdivider_even
+!s110 1558103548
+!i10b 1
+!s100 dF`[XZ4mdi[kCXB0F<ZkC1
+Im:zfdIh@5RlfLd[cX6S1Z1
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dD:/OneDrive - HKUST Connect/verilog_everyday/day12/modelsim_sim
+w1558103509
+8D:/OneDrive - HKUST Connect/verilog_everyday/day12/divider/divider_even.v
+FD:/OneDrive - HKUST Connect/verilog_everyday/day12/divider/divider_even.v
+L0 9
+Z2 OP;L;10.6c;65
+r1
+!s85 0
+31
+Z3 !s108 1558103548.000000
+!s107 D:/OneDrive - HKUST Connect/verilog_everyday/day12/divider/divider_even.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OneDrive - HKUST Connect/verilog_everyday/day12/divider/divider_even.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vdivider_odd
+Z6 !s110 1558103549
+!i10b 1
+!s100 <3PSPYT=`R^9LI_3Eo::M1
+I7c8NCzZQ=`:WDdH0_c4Bn2
+R0
+R1
+w1558103379
+8D:/OneDrive - HKUST Connect/verilog_everyday/day12/divider/divider_odd.v
+FD:/OneDrive - HKUST Connect/verilog_everyday/day12/divider/divider_odd.v
+L0 9
+R2
+r1
+!s85 0
+31
+R3
+!s107 D:/OneDrive - HKUST Connect/verilog_everyday/day12/divider/divider_odd.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OneDrive - HKUST Connect/verilog_everyday/day12/divider/divider_odd.v|
+!i113 1
+R4
+R5
+vdivider_tb
+R6
+!i10b 1
+!s100 lF[=U`F`Ff]=CGZVnUS@i2
+INd80P:iYDi]K]3`:^gC@R3
+R0
+R1
+w1558103215
+8D:/OneDrive - HKUST Connect/verilog_everyday/day12/divider/divider_tb.v
+FD:/OneDrive - HKUST Connect/verilog_everyday/day12/divider/divider_tb.v
+L0 10
+R2
+r1
+!s85 0
+31
+!s108 1558103549.000000
+!s107 D:/OneDrive - HKUST Connect/verilog_everyday/day12/divider/divider_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/OneDrive - HKUST Connect/verilog_everyday/day12/divider/divider_tb.v|
+!i113 1
+R4
+R5

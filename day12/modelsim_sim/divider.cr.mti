@@ -1,0 +1,22 @@
+{D:/OneDrive - HKUST Connect/verilog_everyday/day12/divider/divider_odd.v} {1 {vlog -work work -stats=none {D:/OneDrive - HKUST Connect/verilog_everyday/day12/divider/divider_odd.v}
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module divider_odd
+
+Top level modules:
+	divider_odd
+
+} {} {}} {D:/OneDrive - HKUST Connect/verilog_everyday/day12/divider/divider_even.v} {1 {vlog -work work -stats=none {D:/OneDrive - HKUST Connect/verilog_everyday/day12/divider/divider_even.v}
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module divider_even
+
+Top level modules:
+	divider_even
+
+} {} {}} {D:/OneDrive - HKUST Connect/verilog_everyday/day12/divider/divider_tb.v} {1 {vlog -work work -stats=none {D:/OneDrive - HKUST Connect/verilog_everyday/day12/divider/divider_tb.v}
+Model Technology ModelSim DE-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module divider_tb
+
+Top level modules:
+	divider_tb
+
+} {} {}}
