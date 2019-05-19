@@ -97,7 +97,7 @@ always @ (*)
                         else if(mode == 2'b1)
                         	begin
                                 data_out[N-1:1] = 0;
-                                data_out[1] = data_reg[cnt_reg];
+                                data_out[0] = data_reg[cnt_reg];
                                 data_valid = 1'b1;
                         	end
                        	else 
